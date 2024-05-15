@@ -1,2 +1,2 @@
-# Python-PIT-O-
+# Python (PITAO)
 Alguns códigos em Python
